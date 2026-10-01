@@ -24,6 +24,6 @@
 
 ## Пример недельного плана
 
-![План](docs/scheme.png)
+[План](https://yandex.ru/images/search?text=%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0+%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA&img_url=https%3A%2F%2Fkilmezadm.ru%2Fwp-content%2Fuploads%2F2022%2F06%2F3621b01a8ada6adba29d50dd295b0ca2.jpe&pos=1&rpt=simage&stype=image&lr=36&parent-reqid=1790864578452331-10591478990140465-balancer-l7leveler-kubr-yp-vla-10-BAL&source=serp)
 
 
